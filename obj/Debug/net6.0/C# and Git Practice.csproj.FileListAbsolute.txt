@@ -1,0 +1,45 @@
+D:\Folder Holder\GitHub\C# and Git Practice\obj\Debug\net6.0\C# and Git Practice.csproj.AssemblyReference.cache
+D:\Folder Holder\GitHub\C# and Git Practice\obj\Debug\net6.0\C# and Git Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Folder Holder\GitHub\C# and Git Practice\obj\Debug\net6.0\C# and Git Practice.AssemblyInfoInputs.cache
+D:\Folder Holder\GitHub\C# and Git Practice\obj\Debug\net6.0\C# and Git Practice.AssemblyInfo.cs
+D:\Folder Holder\GitHub\C# and Git Practice\obj\Debug\net6.0\C# and Git Practice.csproj.CoreCompileInputs.cache
+D:\Folder Holder\GitHub\C# and Git Practice\bin\Debug\net6.0\C# and Git Practice.exe
+D:\Folder Holder\GitHub\C# and Git Practice\bin\Debug\net6.0\C# and Git Practice.deps.json
+D:\Folder Holder\GitHub\C# and Git Practice\bin\Debug\net6.0\C# and Git Practice.runtimeconfig.json
+D:\Folder Holder\GitHub\C# and Git Practice\bin\Debug\net6.0\C# and Git Practice.dll
+D:\Folder Holder\GitHub\C# and Git Practice\bin\Debug\net6.0\C# and Git Practice.pdb
+D:\Folder Holder\GitHub\C# and Git Practice\obj\Debug\net6.0\C# and Git Practice.dll
+D:\Folder Holder\GitHub\C# and Git Practice\obj\Debug\net6.0\refint\C# and Git Practice.dll
+D:\Folder Holder\GitHub\C# and Git Practice\obj\Debug\net6.0\C# and Git Practice.pdb
+D:\Folder Holder\GitHub\C# and Git Practice\obj\Debug\net6.0\C# and Git Practice.genruntimeconfig.cache
+D:\Folder Holder\GitHub\C# and Git Practice\obj\Debug\net6.0\ref\C# and Git Practice.dll
+D:\Folder Holder\GitHub\C-Sharp-and-Git-Practice\bin\Debug\net6.0\C# and Git Practice.exe
+D:\Folder Holder\GitHub\C-Sharp-and-Git-Practice\bin\Debug\net6.0\C# and Git Practice.deps.json
+D:\Folder Holder\GitHub\C-Sharp-and-Git-Practice\bin\Debug\net6.0\C# and Git Practice.runtimeconfig.json
+D:\Folder Holder\GitHub\C-Sharp-and-Git-Practice\bin\Debug\net6.0\C# and Git Practice.dll
+D:\Folder Holder\GitHub\C-Sharp-and-Git-Practice\bin\Debug\net6.0\C# and Git Practice.pdb
+D:\Folder Holder\GitHub\C-Sharp-and-Git-Practice\obj\Debug\net6.0\C# and Git Practice.csproj.AssemblyReference.cache
+D:\Folder Holder\GitHub\C-Sharp-and-Git-Practice\obj\Debug\net6.0\C# and Git Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Folder Holder\GitHub\C-Sharp-and-Git-Practice\obj\Debug\net6.0\C# and Git Practice.AssemblyInfoInputs.cache
+D:\Folder Holder\GitHub\C-Sharp-and-Git-Practice\obj\Debug\net6.0\C# and Git Practice.AssemblyInfo.cs
+D:\Folder Holder\GitHub\C-Sharp-and-Git-Practice\obj\Debug\net6.0\C# and Git Practice.csproj.CoreCompileInputs.cache
+D:\Folder Holder\GitHub\C-Sharp-and-Git-Practice\obj\Debug\net6.0\C# and Git Practice.dll
+D:\Folder Holder\GitHub\C-Sharp-and-Git-Practice\obj\Debug\net6.0\refint\C# and Git Practice.dll
+D:\Folder Holder\GitHub\C-Sharp-and-Git-Practice\obj\Debug\net6.0\C# and Git Practice.pdb
+D:\Folder Holder\GitHub\C-Sharp-and-Git-Practice\obj\Debug\net6.0\C# and Git Practice.genruntimeconfig.cache
+D:\Folder Holder\GitHub\C-Sharp-and-Git-Practice\obj\Debug\net6.0\ref\C# and Git Practice.dll
+C:\Users\me\Desktop\FolderHolder\GitHub\C-Sharp-and-Git-Practice\bin\Debug\net6.0\C# and Git Practice.exe
+C:\Users\me\Desktop\FolderHolder\GitHub\C-Sharp-and-Git-Practice\bin\Debug\net6.0\C# and Git Practice.deps.json
+C:\Users\me\Desktop\FolderHolder\GitHub\C-Sharp-and-Git-Practice\bin\Debug\net6.0\C# and Git Practice.runtimeconfig.json
+C:\Users\me\Desktop\FolderHolder\GitHub\C-Sharp-and-Git-Practice\bin\Debug\net6.0\C# and Git Practice.dll
+C:\Users\me\Desktop\FolderHolder\GitHub\C-Sharp-and-Git-Practice\bin\Debug\net6.0\C# and Git Practice.pdb
+C:\Users\me\Desktop\FolderHolder\GitHub\C-Sharp-and-Git-Practice\obj\Debug\net6.0\C# and Git Practice.csproj.AssemblyReference.cache
+C:\Users\me\Desktop\FolderHolder\GitHub\C-Sharp-and-Git-Practice\obj\Debug\net6.0\C# and Git Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me\Desktop\FolderHolder\GitHub\C-Sharp-and-Git-Practice\obj\Debug\net6.0\C# and Git Practice.AssemblyInfoInputs.cache
+C:\Users\me\Desktop\FolderHolder\GitHub\C-Sharp-and-Git-Practice\obj\Debug\net6.0\C# and Git Practice.AssemblyInfo.cs
+C:\Users\me\Desktop\FolderHolder\GitHub\C-Sharp-and-Git-Practice\obj\Debug\net6.0\C# and Git Practice.csproj.CoreCompileInputs.cache
+C:\Users\me\Desktop\FolderHolder\GitHub\C-Sharp-and-Git-Practice\obj\Debug\net6.0\C# and Git Practice.dll
+C:\Users\me\Desktop\FolderHolder\GitHub\C-Sharp-and-Git-Practice\obj\Debug\net6.0\refint\C# and Git Practice.dll
+C:\Users\me\Desktop\FolderHolder\GitHub\C-Sharp-and-Git-Practice\obj\Debug\net6.0\C# and Git Practice.pdb
+C:\Users\me\Desktop\FolderHolder\GitHub\C-Sharp-and-Git-Practice\obj\Debug\net6.0\C# and Git Practice.genruntimeconfig.cache
+C:\Users\me\Desktop\FolderHolder\GitHub\C-Sharp-and-Git-Practice\obj\Debug\net6.0\ref\C# and Git Practice.dll
